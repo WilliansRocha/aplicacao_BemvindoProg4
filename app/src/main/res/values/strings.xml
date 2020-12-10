@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">BemVindo</string>
     <string name="welcome">Aplicação de bem-vindo!</string>
+    <string name="image_description">imagem do aplicativo para a materia de prog4</string>
 </resources>
