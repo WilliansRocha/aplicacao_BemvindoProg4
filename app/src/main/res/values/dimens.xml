@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="welcome_textsize">40sp</dimen>
-    <dimen name="welcome_textsize">40sp</dimen>
+    <dimens name="welcome_textSize">40sp</dimens>
+    <dimens name="welcome_textSize">40sp</dimens>
 </resources>
